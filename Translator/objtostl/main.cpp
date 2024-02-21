@@ -7,8 +7,8 @@ int main()
 {
     try
     {
-        string filepath = "D:/Divyaansh_Workspace/c++/Translator/objtostl/inputfiles/cube1.obj";
-        string filepath1 = "D:/Divyaansh_Workspace/c++/Translator/objtostl/outputfiles/objtostl.stl";
+        string filepath = "D:/Rohit_Workspace/c++/Translator/objtostl/inputfiles/cube1.obj";
+        string filepath1 = "D:/Rohit_Workspace/c++/Translator/objtostl/outputfiles/objtostl.stl";
         Shape3D::Triangulation triangulation;
         Shape3D::OBJReader objReader;
         objReader.readOBJ(filepath, triangulation);
