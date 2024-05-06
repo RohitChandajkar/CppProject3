@@ -52,13 +52,3 @@ To run the Translator project, ensure that you have the following prerequisites:
 ## Contributing
 
 Contributions to the Translator project are welcome! If you encounter bugs, have feature requests, or wish to contribute code improvements, please submit a pull request or open an issue on the project repository.
-
-## License
-
-The Translator project is licensed under the [MIT License](LICENSE), allowing for open collaboration and distribution of the software.
-
-## Support
-
-For questions, feedback, or support inquiries, please contact the project maintainers or join the community forums and discussions associated with the project repository.
-
-Thank you for your interest in the Translator project. We hope this tool enhances your 3D modeling workflow and facilitates seamless interoperability between different file formats.
